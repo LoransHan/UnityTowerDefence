@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{2BE453CB-AF43-E37F-506A-025C732E1B92}") = "TowerDef4-utanRull", "Assembly-CSharp-firstpass-vs.csproj", "{DC9A1C4D-35E0-6D87-C641-ED670DF1670E}"
+EndProject
+Project("{2BE453CB-AF43-E37F-506A-025C732E1B92}") = "TowerDef4-utanRull", "Assembly-CSharp-vs.csproj", "{9BADDAC9-8004-B768-2B5E-3831398B9207}"
+EndProject
+Project("{2BE453CB-AF43-E37F-506A-025C732E1B92}") = "TowerDef4-utanRull", "Assembly-CSharp-Editor-vs.csproj", "{3FF66EDA-81D3-D875-08EF-117D35CF93B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9A1C4D-35E0-6D87-C641-ED670DF1670E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9A1C4D-35E0-6D87-C641-ED670DF1670E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9A1C4D-35E0-6D87-C641-ED670DF1670E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9A1C4D-35E0-6D87-C641-ED670DF1670E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BADDAC9-8004-B768-2B5E-3831398B9207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BADDAC9-8004-B768-2B5E-3831398B9207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BADDAC9-8004-B768-2B5E-3831398B9207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BADDAC9-8004-B768-2B5E-3831398B9207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF66EDA-81D3-D875-08EF-117D35CF93B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF66EDA-81D3-D875-08EF-117D35CF93B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF66EDA-81D3-D875-08EF-117D35CF93B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF66EDA-81D3-D875-08EF-117D35CF93B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

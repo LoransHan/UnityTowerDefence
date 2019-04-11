@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Turrets\SingleCannon.js">
+    <Files>
+      <File FileName="Assets\Scripts\Turrets\DoubleCannon.js" Line="85" Column="1" />
+      <File FileName="Assets\Scripts\Projectile\ProjectileMissile.js" Line="22" Column="26" />
+      <File FileName="Assets\Scripts\Projectile\ProjectileG4.js" Line="4" Column="1" />
+      <File FileName="Assets\Scripts\Turrets\SingleCannon.js" Line="85" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
